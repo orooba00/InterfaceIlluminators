@@ -3,7 +3,7 @@
 ### What is substack?
     Substack is an online platform that allows writers and creators to publish newsletters directly to subscribers.
 ### Current features
-    * Substack supports community moderation and publishers can set the rules for engagement within their communities. 
+   > * Substack supports community moderation and publishers can set the rules for engagement within their communities. 
     * Readers have control over who they subscribe to and interact with, helping to foster direct relationships between publisher and reader. 
     * Marketing and web-based tools enable readers to comment and recommend authors, which helps promote the value of a subscription and drives monetization for writers.
 
