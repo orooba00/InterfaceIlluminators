@@ -1,7 +1,7 @@
 # InterfaceIlluminators
 ## Substack
 ### What is substack?
-    Substack is an online platform that allows writers and creators to publish newsletters directly to subscribers.
+> Substack is an online platform that allows writers and creators to publish newsletters directly to subscribers. Substack promotes community interaction and helps foster direct relationships between writers and their subscribers worldwide! The app’s unique features create a stress-free environment, successfully helping publishers monetize their work without the pressure of deadlines or compromising their creativity.
 ### Current features
     * Substack supports community moderation and publishers can set the rules for engagement within their communities. 
     * Readers have control over who they subscribe to and interact with, helping to foster direct relationships between publisher and reader. 
