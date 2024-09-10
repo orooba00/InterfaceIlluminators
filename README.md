@@ -1,7 +1,8 @@
 # InterfaceIlluminators
- Substack
- What is substack?
+## Substack
+### What is substack?
+    Substack is an online platform that allows writers and creators to publish newsletters directly to subscribers.
+### Current features
 
- Current features
-
- New Features 
+## Substack+
+### New Features 
